@@ -1,0 +1,328 @@
+/*
+font-family: "Raleway", sans-serif;
+font-family: "Roboto", sans-serif; 
+*/
+
+body{
+font-family: "Roboto", sans-serif;
+color: #434455;
+background-color: #fff;
+}
+
+.top-one {
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: #fff;
+    
+
+}
+
+
+
+.top-two {
+    font-size: 36px;
+    letter-spacing: 0.02em;
+    text-align: center; 
+    line-height: 1.11;
+    color: #2e2f42;
+}
+
+
+.top-three {
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-align: center; 
+}
+     
+.top-pages {
+    font-size: 36px;
+    letter-spacing: 0.02em;
+    line-height: 1.11;
+    color: #2e2f42;
+}
+
+
+.top-works,
+.top-featur {
+ 
+ font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main-section {
+    background-color: #2e2f42;
+}
+
+.logo {
+font-family: 'Raleway', sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+color: #4d5ae5;
+ text-transform: uppercase;
+}
+
+.main-button,
+.button-text {
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color:#fff;
+}
+
+ 
+
+.main-button:hover,
+.main-button:focus {
+  background-color: #404bbf;          /* зміна кольору при наведенні / фокусі */
+}
+
+.header-logo .part-logo {
+    color: #2e2f42;
+
+}
+
+ .part-logo,
+ .logo-footer {
+    color: #f4f4fd;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+}
+.text-footer  {
+    color: #f4f4fd;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+
+}
+
+.link-footer {
+font-family: 'Raleway', sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+color: #4d5ae5;
+text-transform: uppercase;
+
+}
+
+.logo-footer { 
+    font-size: 18px;
+     letter-spacing: 0.02em;
+    line-height: 1.5;
+
+}
+
+.main-button {
+    color: #fff;
+}
+
+.main-text {
+    color: #fff;
+    text-align: center;
+}
+
+.main-button {
+    background-color: #4d5ae5;
+
+}
+
+.footer-page {
+    background-color: #2e2f42;
+    
+    
+}
+
+ footer {
+    background-color: #2e2f42;
+}
+
+.nav-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
+}
+
+.section-ourteam {
+   
+    background-color: #f4f4fd;
+    
+}
+/*
+.pf-text {
+    text-align: center;
+     background-color:#f4f4fd ; 
+    
+
+}*/
+
+.footer-zag {
+    font-size: 30px;
+}
+
+
+.nav-link:hover,
+.nav-link:focus {
+color: #404bbf;
+
+}
+
+.address {
+    font-style: normal;
+
+}
+
+.address-link{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+ 
+.address-link:hover,
+.address-link:focus {
+        color: #404bbf;
+}
+
+.card{
+    background-color: #fff;
+    
+}
+
+
+
+.text-block {
+    
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+   
+}
+
+.team-card{
+    text-align: center; 
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+}
+
+.header-span{color: #4d5ae5;
+} 
+
+ul {list-style-type: none;
+}
+
+a {text-decoration: none;
+}
+
+.main-section {background-color: #2e2f42;
+}
+
+.main-button {background-color: #4d5ae5;
+}
+
+.section-h1 {
+    color: #ffff;
+    text-align: center;
+}
+.button-text{
+    color: #ffff;
+}
+
+.section-ourteam {
+    background-color: #f4f4fd;
+    
+    
+}
+
+.text-ourteam{
+    text-align: center;
+}
+
+.ul-ourteam{
+    
+    border-bottom: 40px;
+    background-color: #f4f4fd;
+    margin-bottom: 8px;
+    
+}
+
+
+
+.line-one{
+    background-color: #ffff;
+    padding-top: 5px;
+}
+.test {
+    
+    background-color: #f4f4fd;
+    padding-left: 5px;
+}
+
+.mark-centr {
+    text-align: center;
+}
+
+.tom-centr {
+    text-align: center;
+}
+
+.camila-centr {
+    text-align: center;
+}
+
+.daniel-centr{
+    text-align: center;
+}
+
+footer{
+    background-color: #2e2f42;
+}
+
+.text-footer{
+    color: #ffff
+}
+
+.footer-span{
+    color: #4d5ae5;
+
+}
+
+.footer-text{
+    color: #ffff;
+}  */
